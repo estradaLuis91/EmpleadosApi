@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\estra\\Desktop\\Api-Empleados\\EmpleadosApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38932B63-771B-438B-FEA1-76C851C5AF15}|..\\EmpleadosApi.Application\\EmpleadosApi.Application.csproj|c:\\users\\estra\\desktop\\api-empleados\\empleadosapi.application\\validators\\empleadovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A83B2DA-7B23-4941-94B1-8D1C32DF855C}|EmpleadosApi.csproj|c:\\users\\estra\\desktop\\api-empleados\\empleadosapi\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A83B2DA-7B23-4941-94B1-8D1C32DF855C}|EmpleadosApi.csproj|solutionrelative:controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35716167-DD60-D8FF-4364-F168E3C3BCEE}|..\\EmpleadosApi.Domain\\EmpleadosApi.Domain.csproj|c:\\users\\estra\\desktop\\api-empleados\\empleadosapi.domain\\repositories\\empleadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38932B63-771B-438B-FEA1-76C851C5AF15}|..\\EmpleadosApi.Application\\EmpleadosApi.Application.csproj|c:\\users\\estra\\desktop\\api-empleados\\empleadosapi.application\\services\\empleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38932B63-771B-438B-FEA1-76C851C5AF15}|..\\EmpleadosApi.Application\\EmpleadosApi.Application.csproj|c:\\users\\estra\\desktop\\api-empleados\\empleadosapi.application\\interfaces\\iempleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35716167-DD60-D8FF-4364-F168E3C3BCEE}|..\\EmpleadosApi.Domain\\EmpleadosApi.Domain.csproj|c:\\users\\estra\\desktop\\api-empleados\\empleadosapi.domain\\entities\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpleadoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\estra\\Desktop\\Api-Empleados\\EmpleadosApi.Application\\Validators\\EmpleadoValidator.cs",
+              "RelativeDocumentMoniker": "..\\EmpleadosApi.Application\\Validators\\EmpleadoValidator.cs",
+              "ToolTip": "C:\\Users\\estra\\Desktop\\Api-Empleados\\EmpleadosApi.Application\\Validators\\EmpleadoValidator.cs",
+              "RelativeToolTip": "..\\EmpleadosApi.Application\\Validators\\EmpleadoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T20:41:34.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmpleadoService.cs",
+              "DocumentMoniker": "C:\\Users\\estra\\Desktop\\Api-Empleados\\EmpleadosApi.Application\\Interfaces\\IEmpleadoService.cs",
+              "RelativeDocumentMoniker": "..\\EmpleadosApi.Application\\Interfaces\\IEmpleadoService.cs",
+              "ToolTip": "C:\\Users\\estra\\Desktop\\Api-Empleados\\EmpleadosApi.Application\\Interfaces\\IEmpleadoService.cs",
+              "RelativeToolTip": "..\\EmpleadosApi.Application\\Interfaces\\IEmpleadoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T08:41:30.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpleadoService.cs",
+              "DocumentMoniker": "C:\\Users\\estra\\Desktop\\Api-Empleados\\EmpleadosApi.Application\\Services\\EmpleadoService.cs",
+              "RelativeDocumentMoniker": "..\\EmpleadosApi.Application\\Services\\EmpleadoService.cs",
+              "ToolTip": "C:\\Users\\estra\\Desktop\\Api-Empleados\\EmpleadosApi.Application\\Services\\EmpleadoService.cs",
+              "RelativeToolTip": "..\\EmpleadosApi.Application\\Services\\EmpleadoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T08:41:07.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpleadoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\estra\\Desktop\\Api-Empleados\\EmpleadosApi.Domain\\Repositories\\EmpleadoRepository.cs",
+              "RelativeDocumentMoniker": "..\\EmpleadosApi.Domain\\Repositories\\EmpleadoRepository.cs",
+              "ToolTip": "C:\\Users\\estra\\Desktop\\Api-Empleados\\EmpleadosApi.Domain\\Repositories\\EmpleadoRepository.cs",
+              "RelativeToolTip": "..\\EmpleadosApi.Domain\\Repositories\\EmpleadoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T08:40:11.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\estra\\Desktop\\Api-Empleados\\EmpleadosApi.Domain\\Entities\\Empleado.cs",
+              "RelativeDocumentMoniker": "..\\EmpleadosApi.Domain\\Entities\\Empleado.cs",
+              "ToolTip": "C:\\Users\\estra\\Desktop\\Api-Empleados\\EmpleadosApi.Domain\\Entities\\Empleado.cs",
+              "RelativeToolTip": "..\\EmpleadosApi.Domain\\Entities\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T08:26:14.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "C:\\Users\\estra\\Desktop\\Api-Empleados\\EmpleadosApi\\Controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmpleadoController.cs",
+              "ToolTip": "C:\\Users\\estra\\Desktop\\Api-Empleados\\EmpleadosApi\\Controllers\\EmpleadoController.cs",
+              "RelativeToolTip": "Controllers\\EmpleadoController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwC8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T05:13:44.157Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
